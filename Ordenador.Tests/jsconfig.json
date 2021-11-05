@@ -1,0 +1,15 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+
+  "TituloAsc": "1",
+  "AutorAscTituloDesc": "2",
+  "AnoEdicaoDescAutorDescTituloAsc": "3",
+  "OrdenacaoNula": "4"
+}

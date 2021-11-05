@@ -1,0 +1,17 @@
+C:\Fgv\Ordenador\Ordenador.App\bin\Debug\netcoreapp3.1\Ordenador.App.exe
+C:\Fgv\Ordenador\Ordenador.App\bin\Debug\netcoreapp3.1\Ordenador.App.deps.json
+C:\Fgv\Ordenador\Ordenador.App\bin\Debug\netcoreapp3.1\Ordenador.App.runtimeconfig.json
+C:\Fgv\Ordenador\Ordenador.App\bin\Debug\netcoreapp3.1\Ordenador.App.runtimeconfig.dev.json
+C:\Fgv\Ordenador\Ordenador.App\bin\Debug\netcoreapp3.1\Ordenador.App.dll
+C:\Fgv\Ordenador\Ordenador.App\bin\Debug\netcoreapp3.1\Ordenador.App.pdb
+C:\Fgv\Ordenador\Ordenador.App\bin\Debug\netcoreapp3.1\Ordenador.Domain.dll
+C:\Fgv\Ordenador\Ordenador.App\bin\Debug\netcoreapp3.1\Ordenador.Domain.pdb
+C:\Fgv\Ordenador\Ordenador.App\obj\Debug\netcoreapp3.1\Ordenador.App.csproj.AssemblyReference.cache
+C:\Fgv\Ordenador\Ordenador.App\obj\Debug\netcoreapp3.1\Ordenador.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fgv\Ordenador\Ordenador.App\obj\Debug\netcoreapp3.1\Ordenador.App.AssemblyInfoInputs.cache
+C:\Fgv\Ordenador\Ordenador.App\obj\Debug\netcoreapp3.1\Ordenador.App.AssemblyInfo.cs
+C:\Fgv\Ordenador\Ordenador.App\obj\Debug\netcoreapp3.1\Ordenador.App.csproj.CoreCompileInputs.cache
+C:\Fgv\Ordenador\Ordenador.App\obj\Debug\netcoreapp3.1\Ordenador.App.dll
+C:\Fgv\Ordenador\Ordenador.App\obj\Debug\netcoreapp3.1\Ordenador.App.pdb
+C:\Fgv\Ordenador\Ordenador.App\obj\Debug\netcoreapp3.1\Ordenador.App.genruntimeconfig.cache
+C:\Fgv\Ordenador\Ordenador.App\obj\Debug\netcoreapp3.1\Ordenador.App.csproj.CopyComplete

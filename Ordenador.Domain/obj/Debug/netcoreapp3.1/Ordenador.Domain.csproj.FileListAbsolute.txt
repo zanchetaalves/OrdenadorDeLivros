@@ -1,0 +1,10 @@
+C:\Fgv\Ordenador\Ordenador.Domain\bin\Debug\netcoreapp3.1\Ordenador.Domain.deps.json
+C:\Fgv\Ordenador\Ordenador.Domain\bin\Debug\netcoreapp3.1\Ordenador.Domain.dll
+C:\Fgv\Ordenador\Ordenador.Domain\bin\Debug\netcoreapp3.1\Ordenador.Domain.pdb
+C:\Fgv\Ordenador\Ordenador.Domain\obj\Debug\netcoreapp3.1\Ordenador.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fgv\Ordenador\Ordenador.Domain\obj\Debug\netcoreapp3.1\Ordenador.Domain.AssemblyInfoInputs.cache
+C:\Fgv\Ordenador\Ordenador.Domain\obj\Debug\netcoreapp3.1\Ordenador.Domain.AssemblyInfo.cs
+C:\Fgv\Ordenador\Ordenador.Domain\obj\Debug\netcoreapp3.1\Ordenador.Domain.csproj.CoreCompileInputs.cache
+C:\Fgv\Ordenador\Ordenador.Domain\obj\Debug\netcoreapp3.1\Ordenador.Domain.dll
+C:\Fgv\Ordenador\Ordenador.Domain\obj\Debug\netcoreapp3.1\Ordenador.Domain.pdb
+C:\Fgv\Ordenador\Ordenador.Domain\obj\Debug\netcoreapp3.1\Ordenador.Domain.csproj.AssemblyReference.cache
